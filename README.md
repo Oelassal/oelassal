@@ -12,7 +12,7 @@
 <div align="center">🔗 I’m currently learning Hyperledger and Kubernetes</div>  
   
 
-<div align="center">❓ Let's get in contact, find my socia</div>  
+<div align="center">❓ Let's get in contact, find my social links below</div>  
   
 
 <div align="center">⚡ Fun fact: I have flames effect while programming</div>  
@@ -143,4 +143,3 @@
                 />
             </a></div>
 <br />
-
