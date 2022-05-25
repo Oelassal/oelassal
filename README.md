@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Omar, a node.js full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
-  
+<a href="https://app.daily.dev/omarelassal"><img src="https://api.daily.dev/devcards/a988e8b1d69c4c2f87e0736ec9803978.png?r=lv9" width="400" alt="Omar Elassal's Dev Card"/></a>  
 
 <div align="center">📘 I’m a junior Flutterest (Using Flutter Framework)</div>  
   
