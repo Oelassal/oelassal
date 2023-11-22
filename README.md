@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Omar, a node.js full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Omar, a Java Spring Boot & Asp.net/.net core full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
 
 
 <div align="center">📘 I’m a junior Flutterest (Using Flutter Framework)</div>  
