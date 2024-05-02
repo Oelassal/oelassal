@@ -3,11 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Omar, a Java Spring Boot & Asp.net/.net core full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
-
-
-<div align="center">📘 I’m a junior Flutterest (Using Flutter Framework)</div>  
-  
+### <div align="center">I'm Omar, a Software Engineer with skills in Java Spring Boot & Asp.net/.net core, and angular angular👨‍💻 working since 2018 🚀</div>  
 
 <div align="center">🔗 I’m currently learning Hyperledger and Kubernetes</div>  
   
